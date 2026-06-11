@@ -1,16 +1,11 @@
-# 🤖 OpenClaw Termux No Root
+# 🤖 OpenClaw Termux with Root
 
-**Control any Android phone via Telegram using Gemini AI — no root required.**
+**Control any Android phone via Telegram using Gemini AI —  root required.**
 
-Powered by [OpenClaw](https://github.com/AidanPark/openclaw-android) + Shizuku + Termux
+Powered by [OpenClaw](https://github.com/AidanPark/openclaw-android)  + Termux
 
 ---
 
-### 📺 Watch the Full Setup Tutorial
-
-<a href="https://youtu.be/QePlp8CJ-qA" target="_blank">
-  <img src="https://markdown-videos-api.jorgenkh.no/youtube/QePlp8CJ-qA" alt="Watch the OpenClaw Setup Tutorial on YouTube" width="100%" />
-</a>
 
 ---
 
